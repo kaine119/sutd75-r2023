@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "large-arisu")(type "KiCad")(uri "${KIPRJMOD}/large-arisu.pretty")(options "")(descr ""))
+  (lib (name "3d-library")(type "KiCad")(uri "${KIPRJMOD}/keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes")(options "")(descr ""))
+  (lib (name "Mounting_Keyboard_Stabilizer")(type "KiCad")(uri "${KIPRJMOD}/keyswitch-kicad-library/library/footprints/Mounting_Keyboard_Stabilizer.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Kailh")(type "KiCad")(uri "${KIPRJMOD}/keyswitch-kicad-library/library/footprints/Switch_Keyboard_Kailh.pretty")(options "")(descr ""))
+)
