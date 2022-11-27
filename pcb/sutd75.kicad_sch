@@ -5318,268 +5318,268 @@
       (reference "SW3") (unit 1) (value "RESET") (footprint "large-arisu:SW_Push_SMD-SW-4_5.1x5.1x1.5")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/c647dd7c-310a-4f60-92aa-2d895fd86721"
-      (reference "SW4") (unit 1) (value "M1") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW4") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/f6308988-c3f8-4eae-9e55-ff9152338e23"
-      (reference "SW5") (unit 1) (value "M2") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW5") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/d3c109c5-1e6d-47cd-9da1-1ec5acadb674"
-      (reference "SW6") (unit 1) (value "M3") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW6") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/d9d0973e-8faa-43de-aa0d-e0d45b4dcbc1"
-      (reference "SW7") (unit 1) (value "M4") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW7") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/6b1d7bd6-d1f8-4c20-af0c-06a46bcf0363"
-      (reference "SW8") (unit 1) (value "Esc") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW8") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/e8c20903-3299-481d-a315-623d6fdfe3c5"
-      (reference "SW9") (unit 1) (value "Tilde") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW9") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/eb79272f-19a9-4451-a1f4-4d3d532bd45a"
-      (reference "SW10") (unit 1) (value "Tab") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u")
+      (reference "SW10") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/67852af1-4767-4c7b-81f1-e80e8d316759"
-      (reference "SW11") (unit 1) (value "CapsLock") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_1.75u_SteppedCapsLock")
+      (reference "SW11") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_1.75u_SteppedCapsLock")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/1475c26d-8274-4de8-b672-04c09deeec29"
-      (reference "SW12") (unit 1) (value "Shift") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_2.25u")
+      (reference "SW12") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_2.25u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/34634386-9cf6-445b-b5cb-f2f3486c4ef0"
-      (reference "SW13") (unit 1) (value "Ctrl") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u")
+      (reference "SW13") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/3cbc11b5-fb30-4bb7-91cd-4dd41656a23d"
-      (reference "SW14") (unit 1) (value "F1") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW14") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/b0fa17c0-3449-4322-8c2d-64cf0e7e8872"
-      (reference "SW15") (unit 1) (value "1") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW15") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/bbf05ad8-66ee-435c-8c57-dffadebaa69d"
-      (reference "SW16") (unit 1) (value "Q") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW16") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/a895024a-0d23-470f-81ae-8e2cb056129b"
-      (reference "SW17") (unit 1) (value "A") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW17") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/2f39eaa1-c5fe-40b5-b162-a2aae785f91f"
-      (reference "SW18") (unit 1) (value "Z") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW18") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/6275f45e-7ce4-42b2-b370-c63e2055da25"
-      (reference "SW19") (unit 1) (value "Win") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u")
+      (reference "SW19") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/254afa10-d8d8-45a9-8aa9-8433b1d52f7f"
-      (reference "SW20") (unit 1) (value "F2") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW20") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/942211d7-9fce-4061-9d3f-9d191e252988"
-      (reference "SW21") (unit 1) (value "2") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW21") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/de4ff5d9-8910-4bff-8403-17f383ab2d71"
-      (reference "SW22") (unit 1) (value "W") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW22") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/6fc29054-4ca3-4d2d-903b-9891e7062e15"
-      (reference "SW23") (unit 1) (value "S") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW23") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/8aafd277-36fb-450f-8e65-1c40c3569533"
-      (reference "SW24") (unit 1) (value "X") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW24") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/b8d6e663-c904-4a96-9e29-a68b39927bbc"
-      (reference "SW25") (unit 1) (value "F3") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW25") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/dc19e2e9-6fb3-4532-ae6b-5e1cadad1c0d"
-      (reference "SW26") (unit 1) (value "3") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW26") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/9c8790d4-b933-4382-ae84-7751ef207bec"
-      (reference "SW27") (unit 1) (value "E") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW27") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/1b8d2bb5-c841-4894-a2ab-404ee66d121a"
-      (reference "SW28") (unit 1) (value "D") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW28") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/aa9a0f80-d92d-4b96-af08-62194c98398d"
-      (reference "SW29") (unit 1) (value "C") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW29") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/da2c93be-dc48-4480-b13c-992ce9cc9e9c"
-      (reference "SW30") (unit 1) (value "F4") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW30") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/7c6c5a48-76b9-4a19-bc5c-fa39ff0d739f"
-      (reference "SW31") (unit 1) (value "4") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW31") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/0e6408fe-01ce-4463-90a8-3554496a6fe2"
-      (reference "SW32") (unit 1) (value "R") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW32") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/3031abf3-a753-47cf-95fe-2670f89e4f28"
-      (reference "SW33") (unit 1) (value "F") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW33") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/0d73848f-9690-4c79-a4c7-2e60df1c1954"
-      (reference "SW34") (unit 1) (value "V") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW34") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/ef74a423-1c2d-44e6-82b8-23030a48479f"
-      (reference "SW35") (unit 1) (value "F5") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW35") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/53397cba-bf2a-45dc-93dc-21448c149422"
-      (reference "SW36") (unit 1) (value "5") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW36") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/98a462f9-ccd4-4afa-bf03-6eef60621df9"
-      (reference "SW37") (unit 1) (value "T") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW37") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/cb7f458b-bd23-4080-881b-64797800c11f"
-      (reference "SW38") (unit 1) (value "G") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW38") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/4e5c553f-a6ec-4345-88a2-b52c64203bae"
-      (reference "SW39") (unit 1) (value "B") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW39") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/3eb399e4-0843-4196-8d99-4a63b88b312a"
-      (reference "SW40") (unit 1) (value "Space") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_6.25u")
+      (reference "SW40") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_6.25u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/6e2f33df-acb6-4567-9950-d159315c4b0e"
-      (reference "SW41") (unit 1) (value "F6") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW41") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/1e717157-6956-4de3-aa41-3e859d624d49"
-      (reference "SW42") (unit 1) (value "6") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW42") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/5270ff67-f482-4a4e-83be-7c71623d750c"
-      (reference "SW43") (unit 1) (value "Y") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW43") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/e934fc1c-3a81-403a-a2ee-924ad2def7b9"
-      (reference "SW44") (unit 1) (value "H") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW44") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/23860645-b853-4cb8-bd73-5306c0165896"
-      (reference "SW45") (unit 1) (value "N") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW45") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/87aa5e2e-68ce-49ac-8f6c-326e2cef1645"
-      (reference "SW46") (unit 1) (value "F7") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW46") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/f6cd1406-914b-426e-88e6-95a5a5dcbadd"
-      (reference "SW47") (unit 1) (value "7") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW47") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/17a8a7ce-c1e2-4f94-816c-6e37a20a1bc8"
-      (reference "SW48") (unit 1) (value "U") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW48") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/b1ae7753-8b8e-4c27-a04e-ca48ee7a7e95"
-      (reference "SW49") (unit 1) (value "J") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW49") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/017f2dec-a9a1-40d2-a882-472c05f08a9a"
-      (reference "SW50") (unit 1) (value "M") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW50") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/76eea878-ed7d-4cc0-b158-155beb76132c"
-      (reference "SW51") (unit 1) (value "F8") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW51") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/a5f204ab-9b4c-4add-a0b2-2e2360901f1e"
-      (reference "SW52") (unit 1) (value "8") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW52") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/09172401-b7e7-4d48-8297-1c28733eac71"
-      (reference "SW53") (unit 1) (value "I") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW53") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/8fa5a4d3-a5f4-4021-932c-677b3fad8eb1"
-      (reference "SW54") (unit 1) (value "K") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW54") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/e6f851f3-918e-4f69-8596-701369219c46"
-      (reference "SW55") (unit 1) (value "Comma") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW55") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/7c6fe367-780b-46ae-b637-bb17d0c72fcd"
-      (reference "SW56") (unit 1) (value "RAlt") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW56") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/2b463f65-af2f-4424-9c82-2bdfec31b157"
-      (reference "SW57") (unit 1) (value "F9") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW57") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/d2dc87d2-a5da-4bf9-90f3-9bd271fa8640"
-      (reference "SW58") (unit 1) (value "9") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW58") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/7f0a7450-767e-4290-8b80-35f9ff1a11aa"
-      (reference "SW59") (unit 1) (value "O") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW59") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/05958c28-14bd-494c-ba47-630ff9700ef3"
-      (reference "SW60") (unit 1) (value "L") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW60") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/50d20064-0879-4e47-b0d0-9122ffdc972d"
-      (reference "SW61") (unit 1) (value "Period") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW61") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/011b13af-d86b-481d-a58e-8ac48314bb16"
-      (reference "SW62") (unit 1) (value "RFn") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW62") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/b2313981-201a-4726-a008-4154bcf21b03"
-      (reference "SW63") (unit 1) (value "F10") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW63") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/bee81e29-eeae-4b8c-b3b7-0e37c0683d63"
-      (reference "SW64") (unit 1) (value "0") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW64") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/7c205b5a-869b-47f2-851a-349ef998aa48"
-      (reference "SW65") (unit 1) (value "P") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW65") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/e7c322d2-782d-4ed3-b152-3dcac726f491"
-      (reference "SW66") (unit 1) (value "Semicolon") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW66") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/ba4ebbe3-26b9-48a8-bb13-a21c72c2afe4"
-      (reference "SW67") (unit 1) (value "Slash") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW67") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/d6b8e502-214f-4de4-bf9e-8719a6d14d17"
-      (reference "SW68") (unit 1) (value "RCtrl") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW68") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/28a75aba-fce0-431c-8412-f8043c01e511"
-      (reference "SW69") (unit 1) (value "F11") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW69") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/ec35193d-520b-4177-9665-0f88492b2194"
-      (reference "SW70") (unit 1) (value "Minus") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW70") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/34ef499f-0914-461e-beaf-c2798024afed"
-      (reference "SW71") (unit 1) (value "LBrkt") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW71") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/cfc6c445-3381-4efa-aaae-1ca8ebc1b12f"
-      (reference "SW72") (unit 1) (value "Quote") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW72") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/31325328-325e-4bda-9015-ae8199a129aa"
-      (reference "SW73") (unit 1) (value "RShift") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.75u")
+      (reference "SW73") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.75u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/a132e6e9-13f4-4f4c-8598-b00ca25f1cde"
-      (reference "SW74") (unit 1) (value "F12") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW74") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/0aaa9ff3-1381-4e12-a9c3-4d9edd7f5d0f"
-      (reference "SW75") (unit 1) (value "Equals") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW75") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/a496dfc0-cf45-47f3-b115-d217bf870d53"
-      (reference "SW76") (unit 1) (value "RBrkt") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW76") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/14b0e071-eb57-4ca4-b4dd-f5e98531a80f"
-      (reference "SW77") (unit 1) (value "Enter") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_2.25u")
+      (reference "SW77") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_2.25u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/809a24e5-b637-46db-a670-4a7f3f646f8e"
-      (reference "SW78") (unit 1) (value "LArr") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW78") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/46a6e65e-1160-487c-8c2d-8af2efe283a7"
-      (reference "SW79") (unit 1) (value "F13") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW79") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/b934f868-3f58-4fb8-9bc8-39873dd4ea1b"
-      (reference "SW80") (unit 1) (value "Bksp") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_2.00u")
+      (reference "SW80") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_2.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/4830178a-53de-4871-88f5-d4df4806d437"
-      (reference "SW81") (unit 1) (value "Bkslash") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u")
+      (reference "SW81") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.50u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/a7c2bb86-7209-4225-87bd-3bab3a27f8ab"
-      (reference "SW82") (unit 1) (value "UArr") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW82") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/7629625b-e284-46e6-9e8a-ea7b35427e65"
-      (reference "SW83") (unit 1) (value "DArr") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW83") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/d7be0f92-6e4c-4cc2-bfab-eaf191f77705"
-      (reference "SW84") (unit 1) (value "Knob") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW84") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/79ae8a9e-a7b9-4ab7-808b-3adbb749dc2e"
-      (reference "SW85") (unit 1) (value "Home") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW85") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/c19c5379-364b-4dfd-ab03-9b9441d46238"
-      (reference "SW86") (unit 1) (value "PgUp") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW86") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/f464e55a-988a-4e01-9d6d-985eef123c5d"
-      (reference "SW87") (unit 1) (value "PgDn") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW87") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/9787e47d-d517-4b9b-aebb-b641596a560d"
-      (reference "SW88") (unit 1) (value "End") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW88") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/996e052f-0d47-4d1e-a4bd-96de43d98089"
-      (reference "SW89") (unit 1) (value "RArr") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
+      (reference "SW89") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/642d645c-b4cb-4408-9621-10693331bc4c"
       (reference "SW90") (unit 1) (value "Rotary_Encoder_Switch") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm")
     )
     (path "/013f24c9-7bb6-42ab-9020-39cd15d27f83/bef12b60-2ea7-4cfc-bad5-b45df943b42f"
-      (reference "SW91") (unit 1) (value "Alt") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u")
+      (reference "SW91") (unit 1) (value "MX_Switch") (footprint "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.25u")
     )
     (path "/36bd9193-59c6-4144-82a8-d9f23b8da049"
       (reference "U1") (unit 1) (value "XC6206PxxxMR") (footprint "Package_TO_SOT_SMD:SOT-23")
