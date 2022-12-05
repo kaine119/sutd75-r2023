@@ -4467,7 +4467,7 @@
     (uuid d7be0f92-6e4c-4cc2-bfab-eaf191f77705)
     (property "Reference" "SW84" (id 0) (at 247.65 72.6186 90))
     (property "Value" "MX_Switch" (id 1) (at 247.65 74.93 90))
-    (property "Footprint" "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_plated_1.00u" (id 2) (at 255.27 73.66 0)
+    (property "Footprint" "Switch_Keyboard_Kailh:SW_Hotswap_Kailh_MX_1.00u" (id 2) (at 255.27 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 255.27 73.66 0)
