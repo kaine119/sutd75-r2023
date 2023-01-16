@@ -175,7 +175,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "plate.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
