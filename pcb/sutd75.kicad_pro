@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.75,
-          "height": 1.75,
-          "width": 1.75
+          "drill": 2.5,
+          "height": 1.5,
+          "width": 2.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -56,7 +56,11 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|368813001|108987801|74965d15-3dba-4321-94ee-fdd6f93ac212|bfb2d25b-8bd9-4452-bd95-329c381a3d4c",
+        "hole_clearance|378453000|109737800|853752cd-e6f5-4573-b0c1-af2e6e8495a4|9d57623d-254b-48b4-b0aa-2918b43daa70",
+        "solder_mask_bridge|378453000|109737800|9d57623d-254b-48b4-b0aa-2918b43daa70|853752cd-e6f5-4573-b0c1-af2e6e8495a4"
+      ],
       "meta": {
         "version": 2
       },
